@@ -1,0 +1,1171 @@
+[{
+  "id": "3040059000_01",
+  "name": "[蒼空の先導者]ラカム",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "gun",
+  "gender": "male",
+  "kind": "limited",
+  "style": "special"
+}, {
+  "id": "3040050000_01",
+  "name": "[炎帝]パーシヴァル",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040090000_01",
+  "name": "[]パーシヴァル",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "summer",
+  "style": "balanced"
+}, {
+  "id": "3040076000_01",
+  "name": "[エンド・オブ・ザ]アオイドス",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "axe",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040015000_01",
+  "name": "[真夏の小さなレディ]イオ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "staff",
+  "gender": "female",
+  "kind": "summer",
+  "style": "attack"
+}, {
+  "id": "3040011000_01",
+  "name": "[ウィッチクラフト]マギサ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040028000_01",
+  "name": "[真紅の穿光]ゼタ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "spear",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040046000_01",
+  "name": "[未完の錬金術師]クラリス",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "harp",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040110000_01",
+  "name": "ベアトリクス",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "summer",
+  "style": "special"
+}, {
+  "id": "3040006000_01",
+  "name": "[千年を探す者]ユエル",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "axe",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3040072000_01",
+  "name": "[凄艶の射手]メーテラ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "bow",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040095000_01",
+  "name": "[]ソシエ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "melee",
+  "gender": "female",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3040060000_01",
+  "name": "[亡国の希望]ヘルエス",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "spear",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040103000_01",
+  "name": "[]アンスリア",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040017000_01",
+  "name": "[暁の大刀]アギエルバ",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "dagger",
+  "gender": "male",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3040052000_01",
+  "name": "[古今独歩の大拳豪]ガンダゴウザ",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "melee",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040027000_01",
+  "name": "[南南西の守護神]アニラ",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "spear",
+  "gender": "female",
+  "kind": "newYear",
+  "style": "balanced"
+}, {
+  "id": "3040115000_01",
+  "name": "[]スツルム",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "katana",
+  "gender": "female",
+  "kind": "limited",
+  "style": "attack"
+}, {
+  "id": "3040083000_01",
+  "name": "[灼脚の麗姫]アリーザ",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "melee",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040075000_01",
+  "name": "[日輪の巫女]ザルハメリナ",
+  "type": "harvin",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040117000_01",
+  "name": "[]ヴェイン",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "axe",
+  "gender": "male",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3040098000_01",
+  "name": "[]ロミオ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "staff",
+  "gender": "male",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3040001000_01",
+  "name": "[銀の軍師]アルタイル",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3040023000_01",
+  "name": "[俊英の双剣士]ランスロット",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "dagger",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040088000_01",
+  "name": "[伊達と酔狂の伝説]イングヴェイ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "gun",
+  "gender": "male",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3040093000_01",
+  "name": "[]シャノワール",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "dagger",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040054000_01",
+  "name": "[蒼天の守護騎士]カタリナ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "limited",
+  "style": "balanced"
+}, {
+  "id": "3040049000_01",
+  "name": "[奮励の儁秀]シルヴァ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "gun",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040119000_01",
+  "name": "[]ドランク",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "staff",
+  "gender": "male",
+  "kind": "limited",
+  "style": "special"
+}, {
+  "id": "3040044000_01",
+  "name": "[千年を継ぎし者]ソシエ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "melee",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040100000_01",
+  "name": "[]イシュミール",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040089000_01",
+  "name": "[爽涼の斬姫] ナルメア",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "katana",
+  "gender": "female",
+  "kind": "summer",
+  "style": "attack"
+}, {
+  "id": "3040064000_01",
+  "name": "[変幻自在の妖剣士]ヨダルラーハ",
+  "type": "harvin",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "katana",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040010000_01",
+  "name": "[小さな聖騎士]シャルロッテ",
+  "type": "harvin",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3040104000_01",
+  "name": "[]アルルメイヤ",
+  "type": "harvin",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "staff",
+  "gender": "female",
+  "kind": "christmas",
+  "style": "special"
+}, {
+  "id": "3040066000_01",
+  "name": "[夢見る音符]リルル",
+  "type": "harvin",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "harp",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040116000_01",
+  "name": "[]キャタピラとヴィーラ",
+  "type": "none",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "melee",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040007000_01",
+  "name": "[氷国の希望]リリィ",
+  "type": "none",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "heal"
+}, {
+  "id": "3040077000_01",
+  "name": "[蒼醒の志士]オイゲン",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "gun",
+  "gender": "male",
+  "kind": "limited",
+  "style": "attack"
+}, {
+  "id": "3040002000_01",
+  "name": "[剣の賢者]アレーティア",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040025000_01",
+  "name": "[竜殺しの騎士]ジークフリート",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040084000_01",
+  "name": "[灰白の豹]アイル",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "melee",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040041000_01",
+  "name": "[剋命の巫女]サラ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "harp",
+  "gender": "female",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3040113000_01",
+  "name": "[]レ・フィーエ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "heal"
+}, {
+  "id": "3040009000_01",
+  "name": "[開闢の錬金術師]カリオストロ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "heal"
+}, {
+  "id": "3040053000_01",
+  "name": "[朱華の遊刃]ヴィーラ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "summer",
+  "style": "special"
+}, {
+  "id": "3040067000_01",
+  "name": "[聖夜の錬金術師]クラリス",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "harp",
+  "gender": "female",
+  "kind": "christmas",
+  "style": "special"
+}, {
+  "id": "3040069000_01",
+  "name": "[地砕の霹狼]ユーステス",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "gun",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040099000_01",
+  "name": "[]ユーステス",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "gun",
+  "gender": "male",
+  "kind": "helloween",
+  "style": "attack"
+}, {
+  "id": "3040022000_01",
+  "name": "[蛮愁の稀人]メルゥ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "axe",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040074000_01",
+  "name": "[夜失の桃煙]キャサリン",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040085000_01",
+  "name": "[揺雲の如く]ネモネ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "axe",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040079000_01",
+  "name": "[壊天災]ハレゼナ",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "axe",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040109000_01",
+  "name": "[]ラスティナ",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "spear",
+  "gender": "female",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3040019000_01",
+  "name": "[神託の妖童]アルルメイヤ",
+  "type": "harvin",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "spear",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040107000_01",
+  "name": "[]マキラ",
+  "type": "harvin",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "bow",
+  "gender": "female",
+  "kind": "newYear",
+  "style": "special"
+}, {
+  "id": "3040000000_01",
+  "name": "[矜持の甲冑]ガウェイン",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "axe",
+  "gender": "male",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3040003000_01",
+  "name": "[夜明けの鷲王]ネツァワルピリ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "spear",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040047000_01",
+  "name": "[天象の風]ペトラ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3040061000_01",
+  "name": "[ゴブリンクラッシャー]フィーナ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "bow",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040101000_01",
+  "name": "[]リーシャ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "limited",
+  "style": "balanced"
+}, {
+  "id": "3040021000_01",
+  "name": "[花創の術師]レナ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "gun",
+  "gender": "female",
+  "kind": "normal",
+  "style": "heal"
+}, {
+  "id": "3040058000_01",
+  "name": "[癒奏者]アンリエット",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "harp",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040012000_01",
+  "name": "[天稟の射手]メーテラ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "bow",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3040081000_01",
+  "name": "[絢爛の紡ぎ手]コルワ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040105000_01",
+  "name": "[]ユイシス",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3040071000_01",
+  "name": "[西南西の守護神]アンチラ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "katana",
+  "gender": "female",
+  "kind": "newYear",
+  "style": "balanced"
+}, {
+  "id": "3040122000_01",
+  "name": "[]スカーサハ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "melee",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040042000_01",
+  "name": "[円月の跳姫]カルメリーナ",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "spear",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040102000_01",
+  "name": "[]メリッサベル",
+  "type": "harvin",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "axe",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040068000_01",
+  "name": "[蒼麗の薔薇]ロゼッタ",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "limited",
+  "style": "special"
+}, {
+  "id": "3040045000_01",
+  "name": "[雷迅卿]アルベール",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040065000_01",
+  "name": "[蒼翠の魔法少女]イオ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "staff",
+  "gender": "female",
+  "kind": "limited",
+  "style": "balanced"
+}, {
+  "id": "3040087000_01",
+  "name": "ロザミア",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3040004000_01",
+  "name": "[七宝石の姫]レ・フィーエ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "heal"
+}, {
+  "id": "3040014000_01",
+  "name": "[七宝石の夏姫]レ・フィーエ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "summer",
+  "style": "heal"
+}, {
+  "id": "3040024000_01",
+  "name": "[星跡の巡礼者]ソフィア",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "harp",
+  "gender": "female",
+  "kind": "normal",
+  "style": "heal"
+}, {
+  "id": "3040040000_01",
+  "name": "[聖乙女]ジャンヌダルク",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3040121000_01",
+  "name": "[]クラリス",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "harp",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040096000_01",
+  "name": "[]ジュリエット",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3040056000_01",
+  "name": "[真夏の穿光]ゼタ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "spear",
+  "gender": "female",
+  "kind": "summer",
+  "style": "attack"
+}, {
+  "id": "3040008000_01",
+  "name": "[禁呪の恋人]サルナーン",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "staff",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040013000_01",
+  "name": "[亡国の血脈]セルエル",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040073000_01",
+  "name": "[幽獣の主]フェリ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3040106000_01",
+  "name": "[]ルシオ",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "spear",
+  "gender": "male",
+  "kind": "limited",
+  "style": "balanced"
+}, {
+  "id": "3040091000_01",
+  "name": "ヘルエス",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "spear",
+  "gender": "female",
+  "kind": "summer",
+  "style": "balanced"
+}, {
+  "id": "3040020000_01",
+  "name": "[トリックパラディン]シャルロッテ",
+  "type": "harvin",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "helloween",
+  "style": "heal"
+}, {
+  "id": "3040051000_01",
+  "name": "[舞い降りし少女]アーミラ",
+  "type": "none",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "katana",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040043000_01",
+  "name": "[狂恋の華鎧]ヴィーラ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040005000_01",
+  "name": "[心眼の双葬女]レディ・グレイ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "axe",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040120000_01",
+  "name": "[]カリオストロ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "heal"
+}, {
+  "id": "3040112000_01",
+  "name": "[]ゼタ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "spear",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040080000_01",
+  "name": "ジャンヌダルク",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040062000_01",
+  "name": "[ワンダーアルケミスト]カリオストロ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "staff",
+  "gender": "female",
+  "kind": "helloween",
+  "style": "balanced"
+}, {
+  "id": "3040070000_01",
+  "name": "[不滅の群青]ベアトリクス",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040082000_01",
+  "name": "[七曜の騎士]黒騎士",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "limited",
+  "style": "attack"
+}, {
+  "id": "3040048000_01",
+  "name": "[枯命の禁術師]サルナーン",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "staff",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040029000_01",
+  "name": "[冥闇の剛刃]バザラガ",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040055000_01",
+  "name": "[溟海の漂蕩者]ダヌア",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "katana",
+  "gender": "female",
+  "kind": "summer",
+  "style": "special"
+}, {
+  "id": "3040063000_01",
+  "name": "[揺らぎの斬姫]ナルメア",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "katana",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040086000_01",
+  "name": "[魔竜統]フォルテ",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "spear",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040108000_01",
+  "name": "[]マルキアレス",
+  "type": "harvin",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "staff",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040026000_01",
+  "name": "[聖夜の守り人]ロゼッタ",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "spear",
+  "gender": "female",
+  "kind": "christmas",
+  "style": "heal"
+}, {
+  "id": "3040094000_01",
+  "name": "[]ヴァイト",
+  "type": "none",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "dagger",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040016000_01",
+  "name": "[冥界の番犬]ケルベロス",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "melee",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040057000_01",
+  "name": "[吸血姫]ヴァンピィ",
+  "type": "none",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040111000_01",
+  "name": "[]オーキス",
+  "type": "none",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "limited",
+  "style": "special"
+}, {
+  "id": "3040092000_01",
+  "name": "[夏遊の調停者]ゾーイ",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "melee",
+  "gender": "female",
+  "kind": "summer",
+  "style": "special"
+}, {
+  "id": "3040124000_01",
+  "name": "[正義の聖騎士]バウタオーダ",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3040125000_01",
+  "name": "[創樹の守人]ユグドラシル",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "melee",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040126000_01",
+  "name": "[常夏の儚氷]イシュミール",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "summer",
+  "style": "attack"
+}, {
+  "id": "3040127000_01",
+  "name": "[幸福の紡ぎ手]コルワ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "melee",
+  "gender": "female",
+  "kind": "summer",
+  "style": "special"
+}, {
+  "id": "3040128000_01",
+  "name": "[風雅の剣客]ジークフリート",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "summer",
+  "style": "attack"
+}, {
+  "id": "3040129000_01",
+  "name": "[海に咲く五花]ディアンサ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "harp",
+  "gender": "female",
+  "kind": "summer",
+  "style": "special"
+}, {
+  "id": "3040130000_01",
+  "name": "[醒竜姫]グレア",
+  "type": "none",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "melee",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040132000_01",
+  "name": "[プリンセスマナリア]アン",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "spear",
+  "gender": "female",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3040134000_01",
+  "name": "[ご主人様＆]サーヴァンツ ドロシー＆クラウディア",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "gun",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}]

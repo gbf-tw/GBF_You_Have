@@ -1,0 +1,256 @@
+[{
+  "id": 2040185000,
+  "element": "fire",
+  "name": "シヴァ",
+  "limit": false
+}, {
+  "id": 2040021000,
+  "element": "fire",
+  "name": "アテナ",
+  "limit": true
+}, {
+  "id": 2040063000,
+  "element": "fire",
+  "name": "フラム＝グラス",
+  "limit": true
+}, {
+  "id": 2040053000,
+  "element": "fire",
+  "name": "サテュロス",
+  "limit": false
+}, {
+  "id": 2040094000,
+  "element": "fire",
+  "name": "アグニス",
+  "limit": false
+}, {
+  "id": 2040125000,
+  "element": "fire",
+  "name": "プロメテウス",
+  "limit": true
+}, {
+  "id": 2040171000,
+  "element": "fire",
+  "name": "セスランス",
+  "limit": true
+}, {
+  "id": 2040002000,
+  "element": "water",
+  "name": "マキュラ・マリウス",
+  "limit": true
+}, {
+  "id": 2040007000,
+  "element": "water",
+  "name": "グラニ",
+  "limit": true
+}, {
+  "id": 2040033000,
+  "element": "water",
+  "name": "オケアノス",
+  "limit": false
+}, {
+  "id": 2040069000,
+  "element": "water",
+  "name": "ネプチューン",
+  "limit": false
+}, {
+  "id": 2040100000,
+  "element": "water",
+  "name": "ヴァルナ",
+  "limit": false
+}, {
+  "id": 2040114000,
+  "element": "water",
+  "name": "カグヤ",
+  "limit": false
+}, {
+  "id": 2040160000,
+  "element": "water",
+  "name": "カー・オン",
+  "limit": true
+}, {
+  "id": 2040167000,
+  "element": "water",
+  "name": "カツウォヌス",
+  "limit": false
+}, {
+  "id": 2040059000,
+  "element": "earth",
+  "name": "メドゥーサ",
+  "limit": true
+}, {
+  "id": 2040013000,
+  "element": "earth",
+  "name": "バアル",
+  "limit": true
+}, {
+  "id": 2040036000,
+  "element": "earth",
+  "name": "キュベレー",
+  "limit": false
+}, {
+  "id": 2040084000,
+  "element": "earth",
+  "name": "ティターン",
+  "limit": false
+}, {
+  "id": 2040130000,
+  "element": "earth",
+  "name": "ギルガメッシュ",
+  "limit": true
+}, {
+  "id": 2040173000,
+  "element": "earth",
+  "name": "テスカトリポカ",
+  "limit": false
+}, {
+  "id": 2040205000,
+  "element": "earth",
+  "name": "ゴッドガード・ブローディア",
+  "limit": false
+}, {
+  "id": 2040042000,
+  "element": "wind",
+  "name": "ナタク",
+  "limit": true
+}, {
+  "id": 2040009000,
+  "element": "wind",
+  "name": "ケツァルカトル",
+  "limit": false
+}, {
+  "id": 2040017000,
+  "element": "wind",
+  "name": "セイレーン",
+  "limit": false
+}, {
+  "id": 2040071000,
+  "element": "wind",
+  "name": "ガルーダ",
+  "limit": true
+}, {
+  "id": 2040098000,
+  "element": "wind",
+  "name": "ゼピュロス",
+  "limit": false
+}, {
+  "id": 2040105000,
+  "element": "wind",
+  "name": "ローズクイーン",
+  "limit": true
+}, {
+  "id": 2040122000,
+  "element": "wind",
+  "name": "バイヴカハ",
+  "limit": true
+}, {
+  "id": 2040177000,
+  "element": "wind",
+  "name": "セト",
+  "limit": true
+}, {
+  "id": 2040056000,
+  "element": "light",
+  "name": "ルシフェル",
+  "limit": true
+}, {
+  "id": 2040065000,
+  "element": "light",
+  "name": "ジ・オーダー・グランデ",
+  "limit": false
+}, {
+  "id": 2040023000,
+  "element": "light",
+  "name": "アポロン",
+  "limit": true
+}, {
+  "id": 2040004000,
+  "element": "light",
+  "name": "雷霆公",
+  "limit": false
+}, {
+  "id": 2040029000,
+  "element": "light",
+  "name": "オーディン",
+  "limit": true
+}, {
+  "id": 2040080000,
+  "element": "light",
+  "name": "ゼウス",
+  "limit": false
+}, {
+  "id": 2040144000,
+  "element": "light",
+  "name": "ヘクトル",
+  "limit": true
+}, {
+  "id": 2040188000,
+  "element": "light",
+  "name": "トール",
+  "limit": false
+}, {
+  "id": 2040216000,
+  "element": "light",
+  "name": "アフロディーテ",
+  "limit": false
+}, {
+  "id": 2040003000,
+  "element": "dark",
+  "name": "バハムート",
+  "limit": true
+}, {
+  "id": 2040005000,
+  "element": "dark",
+  "name": "Dエンジェル・オリヴィエ",
+  "limit": true
+}, {
+  "id": 2040001000,
+  "element": "dark",
+  "name": "サタン",
+  "limit": false
+}, {
+  "id": 2040012000,
+  "element": "dark",
+  "name": "リッチ",
+  "limit": true
+}, {
+  "id": 2040090000,
+  "element": "dark",
+  "name": "ハデス",
+  "limit": false
+}, {
+  "id": 2040134000,
+  "element": "dark",
+  "name": "アヌビス",
+  "limit": true
+}, {
+  "id": 2040180000,
+  "element": "dark",
+  "name": "テュポーン",
+  "limit": false
+}, {
+  "id": 2040212000,
+  "element": "dark",
+  "name": "ナハト",
+  "limit": false
+}, {
+  "id": 2040221000,
+  "element": "wind",
+  "name": "シャインホーク・ガルラ",
+  "limit": false
+}, {
+  "id": 2040225000,
+  "element": "water",
+  "name": "エウロペ",
+  "limit": false
+}, {
+  "id": 2040229000,
+  "element": "fire",
+  "name": "ザオシェン",
+  "limit": false
+}, {
+  "id": 2040233000,
+  "element": "earth",
+  "name": "アンクシャ",
+  "limit": false
+}]

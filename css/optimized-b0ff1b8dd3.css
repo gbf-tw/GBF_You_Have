@@ -1,0 +1,119 @@
+.btn-chara {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+.btn-chara:focus,
+.btn-chara.focus {
+  color: #333;
+  background-color: #e6e6e6;
+  border-color: #8c8c8c;
+}
+.btn-chara:hover {
+  color: #333;
+  background-color: #e6e6e6;
+  border-color: #adadad;
+}
+.btn-chara:active,
+.btn-chara.active,
+.open > .dropdown-toggle.btn-chara {
+  color: #fff;
+  /*background-color: #c9302c;
+  border-color: #ac2925;*/
+  background-color: #f1b7a5;
+  border-color: #be3f21;
+}
+.btn-chara:active:hover,
+.btn-chara.active:hover,
+.open > .dropdown-toggle.btn-chara:hover,
+.btn-chara:active:focus,
+.btn-chara.active:focus,
+.open > .dropdown-toggle.btn-chara:focus,
+.btn-chara:active.focus,
+.btn-chara.active.focus,
+.open > .dropdown-toggle.btn-chara.focus {
+  color: #fff;
+  /*background-color: #ac2925;
+  border-color: #761c19;*/
+  background-color: #f1b7a5;
+  border-color: #be3f21;
+}
+.btn-chara:active,
+.btn-chara.active,
+.open > .dropdown-toggle.btn-chara {
+  background-image: none;
+}
+.btn-chara.disabled:hover,
+.btn-chara[disabled]:hover,
+fieldset[disabled] .btn-chara:hover,
+.btn-chara.disabled:focus,
+.btn-chara[disabled]:focus,
+fieldset[disabled] .btn-chara:focus,
+.btn-chara.disabled.focus,
+.btn-chara[disabled].focus,
+fieldset[disabled] .btn-chara.focus {
+  background-color: #d9534f;
+  border-color: #d43f3a;
+}
+.btn-chara .badge {
+  color: #d9534f;
+  background-color: #fff;
+}
+
+div.summary {
+  font-size: 14px;
+}
+ul.summon {
+  padding: 10px 3px;
+  margin: 0;
+}
+li.summon {
+  float: left;
+  position: relative;
+  list-style: none;
+  width: 90px;
+  height: 78px;
+  padding: 10px;
+  border: 1px solid #EAEAEA;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  margin-right: 5px;
+}
+li.summon.have {
+  float: left;
+  position: relative;
+  list-style: none;
+  width: 90px;
+  height: 78px;
+  padding: 10px;
+  border: 1px solid #BE3F21;
+  border-radius: 10px;
+  background-color: #F1B7A5;
+  margin-right: 5px;
+}
+img.summon {
+  width: 70px;
+  height: 40px;
+}
+p.summon {
+  border: 1px #12100D solid;
+  border-radius: 2px;
+  position: absolute;
+  top: 50px;
+  font-size: 4px;
+  text-align: center;
+  width: 70px;
+  background-color: #1B1311;
+}
+span.star {
+  color: #AA976F;
+}
+span.star.limit {
+  color: #7DF7F8;
+}
+span.heart {
+  color: #AA976F;
+}
+span.heart.limit {
+  color: #C22F46;
+}

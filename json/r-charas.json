@@ -1,0 +1,641 @@
+[{
+  "id": "3020000000_01",
+  "name": "ライアン",
+  "type": "human",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "axe",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3020038000_01",
+  "name": "イッパツ",
+  "type": "human",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "melee",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020060000_01",
+  "name": "イッパツ",
+  "type": "human",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "melee",
+  "gender": "male",
+  "kind": "summer",
+  "style": "special"
+}, {
+  "id": "3020044000_01",
+  "name": "ダーント",
+  "type": "human",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "staff",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3020046000_01",
+  "name": "エアロバイス",
+  "type": "human",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "axe",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020008000_01",
+  "name": "アンナ",
+  "type": "human",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3020021000_01",
+  "name": "アンナ",
+  "type": "human",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "staff",
+  "gender": "female",
+  "kind": "summer",
+  "style": "attack"
+}, {
+  "id": "3020016000_01",
+  "name": "マリー",
+  "type": "human",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "gun",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3020023000_01",
+  "name": "マリー",
+  "type": "human",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "gun",
+  "gender": "female",
+  "kind": "summer",
+  "style": "balanced"
+}, {
+  "id": "3020057000_01",
+  "name": "ロジーヌ",
+  "type": "human",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "heal"
+}, {
+  "id": "3020049000_01",
+  "name": "フレッセル",
+  "type": "erune",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "bow",
+  "gender": "male",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3020034000_01",
+  "name": "バロワ",
+  "type": "draph",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "gun",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3020032000_01",
+  "name": "クムユ",
+  "type": "draph",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020036000_01",
+  "name": "カルバ",
+  "type": "draph",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "gun",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3020052000_01",
+  "name": "ラムレッダ",
+  "type": "draph",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020025000_01",
+  "name": "エルメラウラ",
+  "type": "harvin",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "spear",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020063000_01",
+  "name": "ドロッセル",
+  "type": "harvin",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020005000_01",
+  "name": "デリフォード",
+  "type": "human",
+  "rarerity": "R",
+  "element": "water",
+  "release": "spear",
+  "gender": "male",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3020014000_01",
+  "name": "リチャード",
+  "type": "human",
+  "rarerity": "R",
+  "element": "water",
+  "release": "gun",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020040000_01",
+  "name": "ジョエル",
+  "type": "human",
+  "rarerity": "R",
+  "element": "water",
+  "release": "spear",
+  "gender": "male",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3020070000_01",
+  "name": "ランドル",
+  "type": "human",
+  "rarerity": "R",
+  "element": "water",
+  "release": "melee",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3020062000_01",
+  "name": "カイラナ",
+  "type": "erune",
+  "rarerity": "R",
+  "element": "water",
+  "release": "melee",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3020030000_01",
+  "name": "ヨダルラーハ",
+  "type": "harvin",
+  "rarerity": "R",
+  "element": "water",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3020053000_01",
+  "name": "アリステラ",
+  "type": "harvin",
+  "rarerity": "R",
+  "element": "water",
+  "release": "staff",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020029000_01",
+  "name": "スフラマール",
+  "type": "harvin",
+  "rarerity": "R",
+  "element": "water",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "heal"
+}, {
+  "id": "3020048000_01",
+  "name": "ブリジール",
+  "type": "harvin",
+  "rarerity": "R",
+  "element": "water",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020022000_01",
+  "name": "ウェルダー",
+  "type": "human",
+  "rarerity": "R",
+  "element": "earth",
+  "release": "dagger",
+  "gender": "male",
+  "kind": "summer",
+  "style": "balanced"
+}, {
+  "id": "3020028000_01",
+  "name": "ウェルダー",
+  "type": "human",
+  "rarerity": "R",
+  "element": "earth",
+  "release": "staff",
+  "gender": "male",
+  "kind": "christmas",
+  "style": "balanced"
+}, {
+  "id": "3020001000_01",
+  "name": "ヘリヤ",
+  "type": "human",
+  "rarerity": "R",
+  "element": "earth",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3020006000_01",
+  "name": "ファラ",
+  "type": "human",
+  "rarerity": "R",
+  "element": "earth",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3020007000_01",
+  "name": "ボレミア",
+  "type": "human",
+  "rarerity": "R",
+  "element": "earth",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3020012000_01",
+  "name": "ジャスミン",
+  "type": "human",
+  "rarerity": "R",
+  "element": "earth",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "heal"
+}, {
+  "id": "3020051000_01",
+  "name": "ネネ",
+  "type": "human",
+  "rarerity": "R",
+  "element": "earth",
+  "release": "melee",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020058000_01",
+  "name": "コワフュール",
+  "type": "erune",
+  "rarerity": "R",
+  "element": "earth",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020004000_01",
+  "name": "ガラドア",
+  "type": "draph",
+  "rarerity": "R",
+  "element": "earth",
+  "release": "axe",
+  "gender": "male",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3020027000_01",
+  "name": "ガルマ",
+  "type": "draph",
+  "rarerity": "R",
+  "element": "earth",
+  "release": "gun",
+  "gender": "male",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3020037000_01",
+  "name": "ヴァンツァ",
+  "type": "draph",
+  "rarerity": "R",
+  "element": "earth",
+  "release": "melee",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3020047000_01",
+  "name": "クムユ",
+  "type": "draph",
+  "rarerity": "R",
+  "element": "earth",
+  "release": "melee",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020033000_01",
+  "name": "ノルセル",
+  "type": "harvin",
+  "rarerity": "R",
+  "element": "earth",
+  "release": "staff",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020055000_01",
+  "name": "バルルガン",
+  "type": "harvin",
+  "rarerity": "R",
+  "element": "earth",
+  "release": "melee",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3020002000_01",
+  "name": "エシオ",
+  "type": "human",
+  "rarerity": "R",
+  "element": "wind",
+  "release": "axe",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3020009000_01",
+  "name": "ヘイゼン",
+  "type": "human",
+  "rarerity": "R",
+  "element": "wind",
+  "release": "melee",
+  "gender": "male",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3020011000_01",
+  "name": "ペトラ",
+  "type": "human",
+  "rarerity": "R",
+  "element": "wind",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "heal"
+}, {
+  "id": "3020019000_01",
+  "name": "スタン",
+  "type": "erune",
+  "rarerity": "R",
+  "element": "wind",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3020035000_01",
+  "name": "クルーニ",
+  "type": "erune",
+  "rarerity": "R",
+  "element": "wind",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020056000_01",
+  "name": "セロニム",
+  "type": "erune",
+  "rarerity": "R",
+  "element": "wind",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020043000_01",
+  "name": "カルテイラ",
+  "type": "erune",
+  "rarerity": "R",
+  "element": "wind",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020059000_01",
+  "name": "クロエ",
+  "type": "erune",
+  "rarerity": "R",
+  "element": "wind",
+  "release": "melee",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020045000_01",
+  "name": "パヴィーダ",
+  "type": "draph",
+  "rarerity": "R",
+  "element": "wind",
+  "release": "melee",
+  "gender": "male",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3020026000_01",
+  "name": "レオノーラ",
+  "type": "harvin",
+  "rarerity": "R",
+  "element": "wind",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3020020000_01",
+  "name": "フェザー",
+  "type": "human",
+  "rarerity": "R",
+  "element": "light",
+  "release": "melee",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3020018000_01",
+  "name": "ロザミア",
+  "type": "human",
+  "rarerity": "R",
+  "element": "light",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3020064000_01",
+  "name": "コーデリア",
+  "type": "human",
+  "rarerity": "R",
+  "element": "light",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "defense"
+}, {
+  "id": "3020024000_01",
+  "name": "ダエッタ",
+  "type": "draph",
+  "rarerity": "R",
+  "element": "light",
+  "release": "axe",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3020054000_01",
+  "name": "ヴェリトール",
+  "type": "harvin",
+  "rarerity": "R",
+  "element": "light",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3020039000_01",
+  "name": "フィラソピラ",
+  "type": "harvin",
+  "rarerity": "R",
+  "element": "light",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "heal"
+}, {
+  "id": "3020010000_01",
+  "name": "ウィル",
+  "type": "human",
+  "rarerity": "R",
+  "element": "dark",
+  "release": "staff",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020017000_01",
+  "name": "ゼヘク",
+  "type": "human",
+  "rarerity": "R",
+  "element": "dark",
+  "release": "dagger",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3020015000_01",
+  "name": "ターニャ",
+  "type": "human",
+  "rarerity": "R",
+  "element": "dark",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3020031000_01",
+  "name": "ローアイン",
+  "type": "erune",
+  "rarerity": "R",
+  "element": "dark",
+  "release": "dagger",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3020041000_01",
+  "name": "ローアイン",
+  "type": "erune",
+  "rarerity": "R",
+  "element": "dark",
+  "release": "dagger",
+  "gender": "male",
+  "kind": "summer",
+  "style": "attack"
+}, {
+  "id": "3020066000_01",
+  "name": "バラク",
+  "type": "draph",
+  "rarerity": "R",
+  "element": "dark",
+  "release": "harp",
+  "gender": "male",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3020050000_01",
+  "name": "ルナール",
+  "type": "harvin",
+  "rarerity": "R",
+  "element": "dark",
+  "release": "harp",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3020061000_01",
+  "name": "ルナール",
+  "type": "harvin",
+  "rarerity": "R",
+  "element": "dark",
+  "release": "harp",
+  "gender": "female",
+  "kind": "summer",
+  "style": "special"
+}]
