@@ -1094,7 +1094,7 @@
   "type": "primal_beast",
   "rarerity": "SSR",
   "element": "earth",
-  "release": "melee",
+  "release": "harp",
   "gender": "female",
   "kind": "normal",
   "style": "special"
@@ -1114,7 +1114,7 @@
   "type": "erune",
   "rarerity": "SSR",
   "element": "wind",
-  "release": "melee",
+  "release": "harp",
   "gender": "female",
   "kind": "summer",
   "style": "special"
@@ -1124,7 +1124,7 @@
   "type": "human",
   "rarerity": "SSR",
   "element": "wind",
-  "release": "sabre",
+  "release": "katana",
   "gender": "male",
   "kind": "summer",
   "style": "attack"
@@ -1134,7 +1134,7 @@
   "type": "human",
   "rarerity": "SSR",
   "element": "water",
-  "release": "harp",
+  "release": "melee",
   "gender": "female",
   "kind": "summer",
   "style": "special"
@@ -1164,7 +1164,7 @@
   "type": "human",
   "rarerity": "SSR",
   "element": "light",
-  "release": "gun",
+  "release": "melee",
   "gender": "female",
   "kind": "normal",
   "style": "special"
@@ -1174,7 +1174,7 @@
   "type": "primal_beast",
   "rarerity": "SSR",
   "element": "dark",
-  "release": "dagger",
+  "release": "spear",
   "gender": "male",
   "kind": "normal",
   "style": "attack"
