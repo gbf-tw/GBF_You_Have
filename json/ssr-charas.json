@@ -1168,4 +1168,14 @@
   "gender": "female",
   "kind": "normal",
   "style": "special"
+}, {
+  "id": "3040137000_01",
+  "name": "[漆黒のリベリオン]アザゼル",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "dagger",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
 }]
