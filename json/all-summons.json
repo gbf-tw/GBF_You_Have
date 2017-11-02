@@ -167,7 +167,7 @@
   "id": 2040004000,
   "element": "light",
   "name": "雷霆公",
-  "limit": false
+  "limit": true
 }, {
   "id": 2040029000,
   "element": "light",
