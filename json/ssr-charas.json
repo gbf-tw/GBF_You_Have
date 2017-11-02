@@ -1178,4 +1178,24 @@
   "gender": "male",
   "kind": "normal",
   "style": "attack"
+}, {
+  "id": "3040135000_01",
+  "name": "[プリティ・マミィ]ダヌア",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "staff",
+  "gender": "female",
+  "kind": "helloween",
+  "style": "special"
+}, {
+  "id": "3040138000_01",
+  "name": "[千年を封ず者]ユエル",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "katana",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
 }]

@@ -253,4 +253,9 @@
   "element": "earth",
   "name": "アンクシャ",
   "limit": false
+}, {
+  "id": 2040249000,
+  "element": "water",
+  "name": "スノウホワイト",
+  "limit": false
 }]
