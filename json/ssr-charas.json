@@ -920,7 +920,7 @@
   "style": "attack"
 }, {
   "id": "3040080000_01",
-  "name": "ジャンヌダルク",
+  "name": "[堕乙女]ジャンヌダルク",
   "type": "human",
   "rarerity": "SSR",
   "element": "dark",
@@ -1208,4 +1208,14 @@
   "gender": "female",
   "kind": "limited",
   "style": "defense"
+}, {
+  "id": "3040140000_01",
+  "name": "[俊秀の騎士]ランスロット",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
 }]
