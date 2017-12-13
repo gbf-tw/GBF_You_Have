@@ -87,7 +87,7 @@
   "id": 2040036000,
   "element": "earth",
   "name": "キュベレー",
-  "limit": false
+  "limit": true
 }, {
   "id": 2040084000,
   "element": "earth",
@@ -257,5 +257,10 @@
   "id": 2040249000,
   "element": "water",
   "name": "スノウホワイト",
+  "limit": false
+}, {
+  "id": 2040253000,
+  "element": "light",
+  "name": "アドラメレク",
   "limit": false
 }]
