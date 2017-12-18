@@ -1218,4 +1218,14 @@
   "gender": "male",
   "kind": "normal",
   "style": "attack"
+}, {
+  "id": "3040143000_01",
+  "name": "[プレゼントエクスプローラー]マリー",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "gun",
+  "gender": "female",
+  "kind": "christmas",
+  "style": "balanced"
 }]
