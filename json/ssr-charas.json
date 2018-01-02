@@ -1228,4 +1228,44 @@
   "gender": "female",
   "kind": "christmas",
   "style": "balanced"
+}, {
+  "id": "3040145000_01",
+  "name": "[ダークエンジェル]オリヴィエ",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "limit",
+  "style": "special"
+}, {
+  "id": "3040146000_01",
+  "name": "[慙愧の獅子]バザラガ",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "axe",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040147000_01",
+  "name": "[西北西の守護神]ヴァジラ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "melee",
+  "gender": "female",
+  "kind": "limit",
+  "style": "attack"
+}, {
+  "id": "3040148000_01",
+  "name": "[峻厳な鬼教官]イルザ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "bow",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
 }]
