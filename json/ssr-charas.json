@@ -1268,4 +1268,14 @@
   "gender": "female",
   "kind": "normal",
   "style": "attack"
+}, {
+  "id": "3040149000_01",
+  "name": "[盛装の決闘者]テレーズ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
 }]
