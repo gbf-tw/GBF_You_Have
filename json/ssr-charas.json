@@ -1278,4 +1278,14 @@
   "gender": "female",
   "kind": "normal",
   "style": "attack"
+}, {
+  "id": "3040150000_01",
+  "name": "[覚醒の調停者]ゾーイ",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "gun",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
 }]

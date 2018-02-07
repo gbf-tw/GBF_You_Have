@@ -268,4 +268,9 @@
   "element": "wind",
   "name": "グリームニル",
   "limit": false
+}, {
+  "id": 2040263000,
+  "element": "dark",
+  "name": "ツクヨミ",
+  "limit": false
 }]
