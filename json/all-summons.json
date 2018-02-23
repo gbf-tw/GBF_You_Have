@@ -192,7 +192,7 @@
   "id": 2040216000,
   "element": "light",
   "name": "アフロディーテ",
-  "limit": false
+  "limit": true
 }, {
   "id": 2040003000,
   "element": "dark",
@@ -232,7 +232,7 @@
   "id": 2040212000,
   "element": "dark",
   "name": "ナハト",
-  "limit": false
+  "limit": true
 }, {
   "id": 2040221000,
   "element": "wind",
