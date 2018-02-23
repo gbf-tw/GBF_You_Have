@@ -1288,4 +1288,14 @@
   "gender": "female",
   "kind": "normal",
   "style": "balanced"
+}, {
+  "id": "3040151000_01",
+  "name": "[甘くとろける魔眼姫]メドゥーサ",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "staff",
+  "gender": "female",
+  "kind": "valentine",
+  "style": "balanced"
 }]
