@@ -1298,4 +1298,14 @@
   "gender": "female",
   "kind": "valentine",
   "style": "balanced"
+}, {
+  "id": "3040152000_01",
+  "name": "[ガーディアン・オブ・ザ・ウインド]ティアマト",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "gun",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
 }]

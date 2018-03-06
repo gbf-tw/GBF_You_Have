@@ -273,4 +273,9 @@
   "element": "dark",
   "name": "ツクヨミ",
   "limit": false
+}, {
+  "id": 2040275000,
+  "element": "light",
+  "name": "ハールート・マールート",
+  "limit": false
 }]
