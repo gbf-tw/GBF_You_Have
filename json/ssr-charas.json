@@ -1256,7 +1256,7 @@
   "element": "water",
   "release": "melee",
   "gender": "female",
-  "kind": "limit",
+  "kind": "newYear",
   "style": "attack"
 }, {
   "id": "3040148000_01",
@@ -1308,4 +1308,14 @@
   "gender": "female",
   "kind": "normal",
   "style": "special"
+}, {
+  "id": "3040154000_01",
+  "name": "[水麗の聖乙女]ジャンヌダルク",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "spear",
+  "gender": "female",
+  "kind": "summer",
+  "style": "balanced"
 }]
