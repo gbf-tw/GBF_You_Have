@@ -1318,4 +1318,24 @@
   "gender": "female",
   "kind": "summer",
   "style": "balanced"
+}, {
+  "id": "3040155000_01",
+  "name": "[愛宿せし鋼の戦士]ロボミ",
+  "type": "none",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "gun",
+  "gender": "none",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040156000_01",
+  "name": "[不屈の心を持つ鋼の戦士]シロウ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "katana",
+  "gender": "male",
+  "kind": "normal",
+  "style": "defense"
 }]
