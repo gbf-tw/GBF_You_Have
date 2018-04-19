@@ -72,7 +72,7 @@
   "id": 2040167000,
   "element": "water",
   "name": "カツウォヌス",
-  "limit": false
+  "limit": true
 }, {
   "id": 2040059000,
   "element": "earth",

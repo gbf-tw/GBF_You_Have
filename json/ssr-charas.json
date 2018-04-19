@@ -1338,4 +1338,14 @@
   "gender": "male",
   "kind": "normal",
   "style": "defense"
+}, {
+  "id": "3040158000_01",
+  "name": "[神域を護る美神]ブローディア",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "limited",
+  "style": "defense"
 }]
