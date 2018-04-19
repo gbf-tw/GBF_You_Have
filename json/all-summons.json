@@ -278,4 +278,9 @@
   "element": "light",
   "name": "ハールート・マールート",
   "limit": false
+}, {
+  "id": 2040281000,
+  "element": "wind",
+  "name": "フレイ",
+  "limit": false
 }]
