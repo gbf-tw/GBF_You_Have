@@ -283,4 +283,9 @@
   "element": "wind",
   "name": "フレイ",
   "limit": false
+}, {
+  "id": 2040203000,
+  "element": "earth",
+  "name": "ウリエル",
+  "limit": false
 }]

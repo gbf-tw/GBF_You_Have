@@ -1348,4 +1348,14 @@
   "gender": "female",
   "kind": "limited",
   "style": "defense"
+}, {
+  "id": "3040159000_01",
+  "name": "[創意の銃設計士]ククル",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "gun",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
 }]
