@@ -288,4 +288,9 @@
   "element": "earth",
   "name": "ウリエル",
   "limit": false
+}, {
+  "id": 2040285000,
+  "element": "earth",
+  "name": "ゴリラ",
+  "limit": false
 }]

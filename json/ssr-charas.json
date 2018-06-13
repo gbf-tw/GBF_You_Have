@@ -1358,4 +1358,34 @@
   "gender": "female",
   "kind": "normal",
   "style": "balanced"
+}, {
+  "id": "3040170000_01",
+  "name": "[岩砕快拳]ソリッズ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "melee",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040171000_01",
+  "name": "[暁旦の臥龍]カイン",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "limited",
+  "style": "special"
+}, {
+  "id": "3040172000_01",
+  "name": "[妄想少女Ｘ]ルナール",
+  "type": "harvin",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
 }]
