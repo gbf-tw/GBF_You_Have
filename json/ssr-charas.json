@@ -1388,4 +1388,24 @@
   "gender": "female",
   "kind": "normal",
   "style": "special"
+}, {
+  "id": "3040174000_01",
+  "name": "[人狼と少女]ウーフとレニー",
+  "type": "none",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "axe",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040175000_01",
+  "name": "[望夢の奏者]セレフィラ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "harp",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
 }]

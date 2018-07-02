@@ -227,7 +227,7 @@
   "id": 2040180000,
   "element": "dark",
   "name": "テュポーン",
-  "limit": false
+  "limit": true
 }, {
   "id": 2040212000,
   "element": "dark",
@@ -292,5 +292,10 @@
   "id": 2040285000,
   "element": "earth",
   "name": "ゴリラ",
+  "limit": false
+}, {
+  "id": 2040202000,
+  "element": "wind",
+  "name": "ラファエル",
   "limit": false
 }]
