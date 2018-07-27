@@ -928,4 +928,14 @@
   "gender": "female",
   "kind": "normal",
   "style": "attack"
+}, {
+  "id": "3030245000_01",
+  "name": "[風雅なる義侠騎士]ユイシス",
+  "type": "erune",
+  "rarerity": "SR",
+  "element": "wind",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "summer",
+  "style": "balanced"
 }]

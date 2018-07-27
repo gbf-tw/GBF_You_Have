@@ -1408,4 +1408,14 @@
   "gender": "female",
   "kind": "normal",
   "style": "special"
+}, {
+  "id": "3040176000_01",
+  "name": "[潮騒の薔薇]セレフィラ",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "summer",
+  "style": "special"
 }]
