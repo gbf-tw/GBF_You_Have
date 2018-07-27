@@ -638,4 +638,24 @@
   "gender": "female",
   "kind": "summer",
   "style": "special"
+}, {
+  "id": "3020060000_01",
+  "name": "[自麺尽く]イッパツ",
+  "type": "human",
+  "rarerity": "R",
+  "element": "fire",
+  "release": "melee",
+  "gender": "male",
+  "kind": "summer",
+  "style": "special"
+}, {
+  "id": "3020071000_01",
+  "name": "[回転芸術家]スピナー",
+  "type": "human",
+  "rarerity": "R",
+  "element": "wind",
+  "release": "dagger",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
 }]
