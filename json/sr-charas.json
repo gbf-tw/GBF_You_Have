@@ -938,4 +938,14 @@
   "gender": "female",
   "kind": "summer",
   "style": "balanced"
+}, {
+  "id": "3030247000_01",
+  "name": "[波打ち際の四分音符]リルル",
+  "type": "harvin",
+  "rarerity": "SR",
+  "element": "water",
+  "release": "harp",
+  "gender": "female",
+  "kind": "summer",
+  "style": "special"
 }]

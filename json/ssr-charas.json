@@ -1418,4 +1418,24 @@
   "gender": "female",
   "kind": "summer",
   "style": "special"
+}, {
+  "id": "3040177000_01",
+  "name": "[勇躍の艶女傑]イルザ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "bow",
+  "gender": "female",
+  "kind": "summer",
+  "style": "attack"
+}, {
+  "id": "3040178000_01",
+  "name": "[燦夏騎士]ノイシュ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "spear",
+  "gender": "male",
+  "kind": "summer",
+  "style": "defense"
 }]

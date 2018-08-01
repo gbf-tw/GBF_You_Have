@@ -298,4 +298,9 @@
   "element": "wind",
   "name": "ラファエル",
   "limit": false
+}, {
+  "id": 2040293000,
+  "element": "water",
+  "name": "マキュラ・マリウス(水着Ver.)",
+  "limit": true
 }]
