@@ -948,4 +948,34 @@
   "gender": "female",
   "kind": "summer",
   "style": "special"
+}, {
+  "id": "3030248000_01",
+  "name": "[夏の海は最高っす！]ファラ",
+  "type": "human",
+  "rarerity": "SR",
+  "element": "water",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "summer",
+  "style": "attack"
+}, {
+  "id": "3030249000_01",
+  "name": "[優艶の託宣者]アルルメイヤ",
+  "type": "harvin",
+  "rarerity": "SR",
+  "element": "dark",
+  "release": "melee",
+  "gender": "female",
+  "kind": "summer",
+  "style": "special"
+}, {
+  "id": "3030250000_01",
+  "name": "[バカンスの戦槌]アルメイダ",
+  "type": "draph",
+  "rarerity": "SR",
+  "element": "earth",
+  "release": "axe",
+  "gender": "female",
+  "kind": "summer",
+  "style": "attack"
 }]

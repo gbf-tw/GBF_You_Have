@@ -1438,4 +1438,14 @@
   "gender": "male",
   "kind": "summer",
   "style": "defense"
+}, {
+  "id": "3040179000_01",
+  "name": "[真夏の竜姫]グレア",
+  "type": "none",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "spear",
+  "gender": "female",
+  "kind": "summer",
+  "style": "attack"
 }]
