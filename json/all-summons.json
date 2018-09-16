@@ -303,4 +303,9 @@
   "element": "water",
   "name": "マキュラ・マリウス(水着Ver.)",
   "limit": true
+}, {
+  "id": 2040294000,
+  "element": "wind",
+  "name": "ハンサ",
+  "limit": false
 }]

@@ -978,4 +978,24 @@
   "gender": "female",
   "kind": "summer",
   "style": "attack"
+}, {
+  "id": "3030251000_01",
+  "name": "[クレイジーサーフガール]カイラナ",
+  "type": "erune",
+  "rarerity": "SR",
+  "element": "water",
+  "release": "melee",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3030252000_01",
+  "name": "[チャラ男フォーエバー]チーム・ローアイン",
+  "type": "erune",
+  "rarerity": "SR",
+  "element": "earth",
+  "release": "spear",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
 }]

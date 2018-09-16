@@ -1448,4 +1448,34 @@
   "gender": "female",
   "kind": "summer",
   "style": "attack"
+}, {
+  "id": "3040180000_01",
+  "name": "[マナリアの特攻隊長]ツバサ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "axe",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040181000_01",
+  "name": "[楽隠居の元国王]フォリア",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "bow",
+  "gender": "female",
+  "kind": "limited",
+  "style": "special"
+}, {
+  "id": "3040182000_01",
+  "name": "[ツンデレ宰相]フーちゃん",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "gun",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
 }]
