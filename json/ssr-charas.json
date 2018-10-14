@@ -1478,4 +1478,14 @@
   "gender": "female",
   "kind": "normal",
   "style": "special"
+}, {
+  "id": "3040187000_01",
+  "name": "[鋭才の射手]シルヴァ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "gun",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
 }]

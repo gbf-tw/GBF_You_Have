@@ -998,4 +998,14 @@
   "gender": "male",
   "kind": "normal",
   "style": "special"
+}, {
+  "id": "3030253000_01",
+  "name": "[未完の勇士]ユーリ",
+  "type": "human",
+  "rarerity": "SR",
+  "element": "wind",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
 }]
