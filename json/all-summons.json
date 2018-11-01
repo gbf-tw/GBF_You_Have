@@ -313,4 +313,9 @@
   "element": "wind",
   "name": "愛と戦いの神 アナト",
   "limit": false
+}, {
+  "id": 2040306000,
+  "element": "fire",
+  "name": "ミカエル",
+  "limit": false
 }]

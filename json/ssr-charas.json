@@ -1488,4 +1488,44 @@
   "gender": "female",
   "kind": "normal",
   "style": "attack"
+}, {
+  "id": "3040189000_01",
+  "name": "[魅惑の双葬女]レディ・グレイ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "harp",
+  "gender": "female",
+  "kind": "helloween",
+  "style": "special"
+}, {
+  "id": "3040190000_01",
+  "name": "[麗しき水星の美姫]エウロペ",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "spear",
+  "gender": "female",
+  "kind": "limited",
+  "style": "heal"
+}, {
+  "id": "3040191000_01",
+  "name": "[双竜の騎士]白竜の双騎士 ランスロット＆ヴェイン",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "spear",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040192000_01",
+  "name": "[氷皇]アグロヴァル",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
 }]

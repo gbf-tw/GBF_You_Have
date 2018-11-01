@@ -1008,4 +1008,24 @@
   "gender": "male",
   "kind": "normal",
   "style": "attack"
+}, {
+  "id": "3030254000_01",
+  "name": "[スケルトンファイター]フェザー",
+  "type": "human",
+  "rarerity": "SR",
+  "element": "dark",
+  "release": "melee",
+  "gender": "male",
+  "kind": "helloween",
+  "style": "attack"
+}, {
+  "id": "3030255000_01",
+  "name": "[獅竜の絆]ひよこ班 アーサー＆モルドレッド",
+  "type": "human",
+  "rarerity": "SR",
+  "element": "wind",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "normal",
+  "style": "balanced"
 }]
