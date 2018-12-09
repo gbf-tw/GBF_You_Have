@@ -1028,4 +1028,24 @@
   "gender": "male",
   "kind": "normal",
   "style": "balanced"
+}, {
+  "id": "3030256000_01",
+  "name": "[マダム・おせんべえ]ロジーヌ",
+  "type": "human",
+  "rarerity": "SR",
+  "element": "fire",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "heal"
+}, {
+  "id": "3030257000_01",
+  "name": "[求道の銃槍騎]ラスティナ",
+  "type": "draph",
+  "rarerity": "SR",
+  "element": "earth",
+  "release": "spear",
+  "gender": "female",
+  "kind": "normal",
+  "style": "defense"
 }]

@@ -1528,4 +1528,34 @@
   "gender": "male",
   "kind": "normal",
   "style": "attack"
+}, {
+  "id": "3040193000_01",
+  "name": "[心頼の三姉妹]レヴィオン姉妹 マイム＆ミイム＆メイム",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "bow",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040194000_01",
+  "name": "[栄光の聖騎士団団長]シャルロッテ",
+  "type": "harvin",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "axe",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040199000_01",
+  "name": "[決意の知爵]ユリウス",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "staff",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
 }]
