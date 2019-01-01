@@ -1048,4 +1048,24 @@
   "gender": "female",
   "kind": "normal",
   "style": "defense"
+}, {
+  "id": "3030259000_01",
+  "name": "[聖夜の妹君]ヤイア",
+  "type": "draph",
+  "rarerity": "SR",
+  "element": "wind",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "christmas",
+  "style": "special"
+}, {
+  "id": "3030261000_01",
+  "name": "[再起する群青]ベアトリクス",
+  "type": "human",
+  "rarerity": "SR",
+  "element": "earth",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
 }]

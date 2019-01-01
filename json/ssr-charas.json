@@ -1236,7 +1236,7 @@
   "element": "dark",
   "release": "sabre",
   "gender": "female",
-  "kind": "limit",
+  "kind": "limited",
   "style": "special"
 }, {
   "id": "3040146000_01",
@@ -1558,4 +1558,54 @@
   "gender": "male",
   "kind": "normal",
   "style": "special"
+}, {
+  "id": "3040195000_01",
+  "name": "[聖夜の射手]メーテラ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "spear",
+  "gender": "female",
+  "kind": "christmas",
+  "style": "balanced"
+}, {
+  "id": "3040196000_01",
+  "name": "[究極不変悪滅善護]シヴァ",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "bow",
+  "gender": "male",
+  "kind": "limited",
+  "style": "attack"
+}, {
+  "id": "3040197000_01",
+  "name": "[北北西の守護神]クビラ",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "axe",
+  "gender": "female",
+  "kind": "newYear",
+  "style": "attack"
+}, {
+  "id": "3040198000_01",
+  "name": "[暗躍の震狼]ユーステス",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "gun",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040202000_01",
+  "name": "[守護と防衛の女神]アテナ",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "fire",
+  "release": "spear",
+  "gender": "female",
+  "kind": "normal",
+  "style": "defense"
 }]

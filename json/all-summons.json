@@ -323,4 +323,14 @@
   "element": "water",
   "name": "気高き水神 ポセイドン",
   "limit": false
+}, {
+  "id": 2040304000,
+  "element": "fire",
+  "name": "白純の霊蝶 シルフ",
+  "limit": false
+}, {
+  "id": 2040311000,
+  "element": "water",
+  "name": "ガブリエル",
+  "limit": false
 }]
