@@ -1068,4 +1068,24 @@
   "gender": "female",
   "kind": "normal",
   "style": "attack"
+}, {
+  "id": "3030263000_01",
+  "name": "[自由を駆ける漢]スカル",
+  "type": "harvin",
+  "rarerity": "SR",
+  "element": "dark",
+  "release": "gun",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3030264000_01",
+  "name": "[変装せし桃煙]キャサリン",
+  "type": "erune",
+  "rarerity": "SR",
+  "element": "earth",
+  "release": "melee",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
 }]

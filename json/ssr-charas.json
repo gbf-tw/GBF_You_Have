@@ -1608,4 +1608,34 @@
   "gender": "female",
   "kind": "normal",
   "style": "defense"
+}, {
+  "id": "3040203000_01",
+  "name": "[千夜を越えし暗闘者]ターニャ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040204000_01",
+  "name": "[藹々の猫娘]セン",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "spear",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040205000_01",
+  "name": "[ねこと一緒]ダーント＆フライハイト",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "melee",
+  "gender": "male",
+  "kind": "normal",
+  "style": "attack"
 }]

@@ -333,4 +333,14 @@
   "element": "water",
   "name": "ガブリエル",
   "limit": false
+}, {
+  "id": 2040305000,
+  "element": "dark",
+  "name": "冥界の三魔犬 ケルベロス",
+  "limit": false
+}, {
+  "id": 2040310000,
+  "element": "light",
+  "name": "三知一鎧の賢者 マギ",
+  "limit": false
 }]
