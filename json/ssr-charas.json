@@ -1638,4 +1638,44 @@
   "gender": "male",
   "kind": "normal",
   "style": "attack"
+}, {
+  "id": "3040206000_01",
+  "name": "[懸想の錬金術師]クラリス",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "staff",
+  "gender": "female",
+  "kind": "valentine",
+  "style": "special"
+}, {
+  "id": "3040207000_01",
+  "name": "[甘味玉黍姫]メリッサベル",
+  "type": "harvin",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "valentine",
+  "style": "defense"
+}, {
+  "id": "3040208000_01",
+  "name": "[葬礼の旧姫]ヘルエス",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "spear",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040209000_01",
+  "name": "[幽葬の少女]フェリ",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "harp",
+  "gender": "female",
+  "kind": "limited",
+  "style": "special"
 }]

@@ -1088,4 +1088,14 @@
   "gender": "female",
   "kind": "normal",
   "style": "special"
+}, {
+  "id": "3030265000_01",
+  "name": "[六花に舞うサムライ]ミリン",
+  "type": "human",
+  "rarerity": "SR",
+  "element": "light",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
 }]

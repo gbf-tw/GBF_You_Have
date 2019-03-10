@@ -343,4 +343,9 @@
   "element": "light",
   "name": "三知一鎧の賢者 マギ",
   "limit": false
+}, {
+  "id": 2040323000,
+  "element": "earth",
+  "name": "破格の戦鬼 マルドゥーク",
+  "limit": false
 }]
