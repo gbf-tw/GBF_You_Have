@@ -348,4 +348,14 @@
   "element": "earth",
   "name": "破格の戦鬼 マルドゥーク",
   "limit": false
+}, {
+  "id": 2040326000,
+  "element": "wind",
+  "name": "魔鯛",
+  "limit": false
+}, {
+  "id": 2040327000,
+  "element": "dark",
+  "name": "サリエル",
+  "limit": false
 }]

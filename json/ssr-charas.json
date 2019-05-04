@@ -1678,4 +1678,54 @@
   "gender": "female",
   "kind": "limited",
   "style": "special"
+}, {
+  "id": "3040210000_01",
+  "name": "[蒼紅之絆]ユエル",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "katana",
+  "gender": "female",
+  "kind": "summer",
+  "style": "balanced"
+}, {
+  "id": "3040211000_01",
+  "name": "[安寧の麗装]ヴィーラ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "harp",
+  "gender": "female",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040212000_01",
+  "name": "[踊り狂う暴風]グリームニル",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "spear",
+  "gender": "male",
+  "kind": "limited",
+  "style": "balanced"
+}, {
+  "id": "3040213000_01",
+  "name": "[玉塵の裁姫]マキュラ・マリウス",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040214000_01",
+  "name": "[愛寵の蛇眼]メドゥーサ",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
 }]

@@ -1098,4 +1098,24 @@
   "gender": "female",
   "kind": "normal",
   "style": "attack"
+}, {
+  "id": "3030266000_01",
+  "name": "[青春の物語]コルワ",
+  "type": "erune",
+  "rarerity": "SR",
+  "element": "wind",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3030266000_01",
+  "name": "[天恵のギャンブラー]リチャード",
+  "type": "human",
+  "rarerity": "SR",
+  "element": "dark",
+  "release": "gun",
+  "gender": "male",
+  "kind": "normal",
+  "style": "special"
 }]
