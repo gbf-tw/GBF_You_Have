@@ -1728,4 +1728,44 @@
   "gender": "female",
   "kind": "normal",
   "style": "balanced"
+}, {
+  "id": "3040215000_01",
+  "name": "[レゾナンス・オブ・ザ]バアル",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "spear",
+  "gender": "male",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3040217000_01",
+  "name": "[愛の大殿堂]ファスティバ",
+  "type": "draph",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "melee",
+  "gender": "none",
+  "kind": "normal",
+  "style": "attack"
+}, {
+  "id": "3040218000_01",
+  "name": "[三相一体の女神]バイヴカハ",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "wind",
+  "release": "staff",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3040222000_01",
+  "name": "[流転の鋼鉄少女]コルル",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "spear",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
 }]

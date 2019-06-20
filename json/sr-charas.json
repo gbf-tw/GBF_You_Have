@@ -1109,13 +1109,43 @@
   "kind": "normal",
   "style": "balanced"
 }, {
-  "id": "3030266000_01",
+  "id": "3030267000_01",
   "name": "[天恵のギャンブラー]リチャード",
   "type": "human",
   "rarerity": "SR",
   "element": "dark",
   "release": "gun",
   "gender": "male",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3030268000_01",
+  "name": "[勉励の射手]アステール",
+  "type": "erune",
+  "rarerity": "SR",
+  "element": "fire",
+  "release": "gun",
+  "gender": "female",
+  "kind": "normal",
+  "style": "special"
+}, {
+  "id": "3030269000_01",
+  "name": "[正道の双璧]ノーブルナイツ ブリジール＆コーデリア",
+  "type": "harvin",
+  "rarerity": "SR",
+  "element": "light",
+  "release": "spear",
+  "gender": "female",
+  "kind": "normal",
+  "style": "balanced"
+}, {
+  "id": "3030270000_01",
+  "name": "[愚問愚答の哲学者]フィラソピラ",
+  "type": "harvin",
+  "rarerity": "SR",
+  "element": "light",
+  "release": "staff",
+  "gender": "female",
   "kind": "normal",
   "style": "special"
 }]
