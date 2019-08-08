@@ -1148,4 +1148,34 @@
   "gender": "female",
   "kind": "normal",
   "style": "special"
+}, {
+  "id": "3030271000_01",
+  "name": "[熱砂のエリートウーマン]フライデー",
+  "type": "human",
+  "rarerity": "SR",
+  "element": "fire",
+  "release": "sabre",
+  "gender": "female",
+  "kind": "summer",
+  "style": "balanced"
+}, {
+  "id": "3030272000_01",
+  "name": "[フェーリエン・ナイツ]白竜の双騎士 ランスロット＆ヴェイン",
+  "type": "human",
+  "rarerity": "SR",
+  "element": "earth",
+  "release": "spear",
+  "gender": "male",
+  "kind": "summer",
+  "style": "defense"
+}, {
+  "id": "3030273000_01",
+  "name": "[フォッシルの祭り装束]カシウス",
+  "type": "none",
+  "rarerity": "SR",
+  "element": "fire",
+  "release": "melee",
+  "gender": "male",
+  "kind": "summer",
+  "style": "balanced"
 }]

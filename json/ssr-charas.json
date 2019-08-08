@@ -1768,4 +1768,64 @@
   "gender": "female",
   "kind": "normal",
   "style": "special"
+}, {
+  "id": "3040223000_01",
+  "name": "[ツインズ・オン・ザ・ビーチ]ハールート・マールート",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "light",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "summer",
+  "style": "balanced"
+}, {
+  "id": "3040224000_01",
+  "name": "[砂浜の天司長]サンダルフォン",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "sabre",
+  "gender": "male",
+  "kind": "summer",
+  "style": "balanced"
+}, {
+  "id": "3040225000_01",
+  "name": "[波打ち際の錬金術師]カリオストロ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "staff",
+  "gender": "female",
+  "kind": "summer",
+  "style": "heal"
+}, {
+  "id": "3040226000_01",
+  "name": "[流麗の美姫]エウロペ",
+  "type": "primal_beast",
+  "rarerity": "SSR",
+  "element": "water",
+  "release": "dagger",
+  "gender": "female",
+  "kind": "summer",
+  "style": "balanced"
+}, {
+  "id": "3040227000_01",
+  "name": "[朱夏の銃士]ジェシカ",
+  "type": "human",
+  "rarerity": "SSR",
+  "element": "earth",
+  "release": "melee",
+  "gender": "female",
+  "kind": "summer",
+  "style": "heal"
+}, {
+  "id": "3040228000_01",
+  "name": "[嫣然の舞主]アンスリア",
+  "type": "erune",
+  "rarerity": "SSR",
+  "element": "dark",
+  "release": "staff",
+  "gender": "female",
+  "kind": "summer",
+  "style": "balanced"
 }]

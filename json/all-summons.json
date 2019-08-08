@@ -363,4 +363,14 @@
   "element": "light",
   "name": "メタトロン",
   "limit": false
+}, {
+  "id": 2040333000,
+  "element": "earth",
+  "name": "ユグドラシル (水着)",
+  "limit": true
+}, {
+  "id": 2040335000,
+  "element": "fire",
+  "name": "サテュロス (水着)",
+  "limit": true
 }]
